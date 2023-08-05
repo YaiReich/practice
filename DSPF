@@ -1,11 +1,14 @@
+        *************** Beginning of data ************************************* 
 0000.01 A*%%EC                                                                  
 0001.00 A                                           DSPSIZ(24 80 *DS3           
 0002.00 A                                                  27 132 *DS4)         
 0003.00 A                                           PRINT                       
 0004.00 A                                           CF03(03)                    
 0005.00 A                                           CF12(12)                    
-0006.00 A                 R WSFLR                   SFL                         
+0006.00 A               R WSFLR                     SFL                         
 0007.00 A                                           CHGINPDFT                   
 0008.00 A                                           CHECK(RL)                   
 0009.00 A       45                                  SFLNXTCHG                   
+0010.00 A                 S#SGCODA       3S 0O  5 39                            
+0011.00 A                 S#SGTEUR      30A  O  5  2                            
         ****************** End of data **************************************** 
