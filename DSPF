@@ -20,5 +20,5 @@
 0018.00 A  *DS4                                     WINDOW(2 5 18 50)    
 0019.00 A                                           CSRLOC(LINNBR     COLNBR)
 0020.00 A                                           CHECK(RL)
-0021.00 A                                           OVERLAY 
+0021.00 A                                            
       ****************** End of data ****************************************
