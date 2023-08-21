@@ -18,8 +18,10 @@
 0016.00 A  *DS4                                     SFLPAG(0009)               
 0017.00 A  *DS3                                     WINDOW(2 5 14 42)          
 0018.00 A  *DS4                                     WINDOW(2 5 18 50)    
-0019.00 A                                           CSRLOC(LINNBR     COLNBR)
-0020.00 A                                           CHECK(RL)
-0021.00 A                                           OVERLAY 
-0022.00 A N51                                       ERASE(WSFLR) 
+0019.00 A                                           CSRLOC(LINNBR     COLNBR) 
+0020.00 A                                           CHECK(RL)                 
+0021.00 A                                           OVERLAY                   
+0022.00 A N51                                       ERASE(WSFLR)              
+0023.00 A                                           SFLCSRRRN(&CURRRN)        
+0024.00 A  51                                       SFLDSP                    
       ****************** End of data ****************************************
