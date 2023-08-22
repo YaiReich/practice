@@ -23,5 +23,8 @@
 0021.00 A                                           OVERLAY                   
 0022.00 A N51                                       ERASE(WSFLR)              
 0023.00 A                                           SFLCSRRRN(&CURRRN)        
-0024.00 A  51                                       SFLDSP                    
+0024.00 A  51                                       SFLDSP      
+0025.00 A  50                                       SFLDSPCTL   
+0026.00 A N50                                       SFLDLT      
+0027.00 A N50                                       SFLCLR      
       ****************** End of data ****************************************
