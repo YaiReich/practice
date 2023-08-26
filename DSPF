@@ -27,4 +27,11 @@
 0025.00 A  50                                       SFLDSPCTL   
 0026.00 A N50                                       SFLDLT      
 0027.00 A N50                                       SFLCLR      
+0028.00 A  52                                       SFLEND(*MORE)              
+0029.00 A                                           WDWBORDER((*DSPATR RE)(*CHAR '    - 
+0030.00 A                                               '))                    
+0031.00 A                                           WDWTITLE((*TEXT &TTL)*LEFT *BOTTOM)  
+0032.00 A                                           WDWTITLE((*TEXT &PGM)*LEFT)
+0033.00 A                 PGM           10A  P                                 
+0034.00 A                 TTL           37A  P                                 
       ****************** End of data ****************************************
