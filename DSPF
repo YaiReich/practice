@@ -33,5 +33,11 @@
 0031.00 A                                           WDWTITLE((*TEXT &TTL)*LEFT *BOTTOM)  
 0032.00 A                                           WDWTITLE((*TEXT &PGM)*LEFT)
 0033.00 A                 PGM           10A  P                                 
-0034.00 A                 TTL           37A  P                                 
+0034.00 A                 TTL           37A  P        
+0035.00 A                 LINNBR         3S OH          
+0036.00 A                 CULNBR         3S OH          
+0037.00 A                 CURRCD        10A  H          
+0038.00 A                 CURFLD        10A  H          
+0039.00 A                 CURRRN         5S OH          
+0040.00 A                 RCD1           4S OH          
       ****************** End of data ****************************************
