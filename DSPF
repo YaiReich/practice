@@ -39,5 +39,10 @@
 0037.00 A                 CURRCD        10A  H          
 0038.00 A                 CURFLD        10A  H          
 0039.00 A                 CURRRN         5S OH          
-0040.00 A                 RCD1           4S OH          
+0040.00 A                 RCD1           4S OH   
+0041.00 A                                       1  8'WINDOW'          
+0042.00 A                                           DSPATR(HI)        
+0043.00 A                                       4 34'NO.'             
+0045.00 A                                           DSPATR(HI)        
+0046.00 A                                           DSPATR(UL)        
       ****************** End of data ****************************************
