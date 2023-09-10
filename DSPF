@@ -49,5 +49,7 @@
 0048.00 A                                           DSPATR(HI)               
 0049.00 A                                           DSPATR(UL)               
 0050.00 A                                       2 12'PRESS ENTER'            
-0051.00 A                                           COLOR(BLU)               
+0051.00 A                                           COLOR(BLU)        
+0052.00 A               R RECSTM                                               
+0053.00 A                                           KEEP                       
       ****************** End of data ****************************************
